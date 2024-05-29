@@ -1,0 +1,6 @@
+@media (min-width: 1024px) { 
+    .footer-container{
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+    }
+ }

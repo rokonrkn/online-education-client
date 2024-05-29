@@ -1,0 +1,10 @@
+.backgroud{
+    background-image: url('../../../public//images//breadcrumb-bg.jpg');
+}
+@media (max-width: 640px) { 
+    .card-container{
+        margin-left: 10px;
+        margin-right: 10px;
+
+    }
+ }
